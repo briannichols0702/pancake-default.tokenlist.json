@@ -53,7 +53,7 @@
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0x000000000000000000000000000000000000dead",
+      "address": "0x717d58c3e05ADe613fBC3ADc1da2e854Fe119547",
       "chainId": 420042,
       "decimals": 18,
       "logoURI": "https://BESCSWAP.finance/images/tokens/0xf89060c99853Bb52eaF5F2247D007d73de660252.png"
