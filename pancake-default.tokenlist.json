@@ -1,0 +1,62 @@
+{
+  "name": "BESCSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://BESCSWAP.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "BESC Money",
+      "symbol": "MONEY",
+      "address": "0xAf8e4A9b508efda0502ed4DCabDbdc2F73AEa1CE",
+      "chainId": 420042,
+      "decimals": 18,
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0x91A46Fbf7D7a41f296457c937C782113078700b0.png"
+    },
+    {
+      "name": "BESC Token",
+      "symbol": "BESC",
+      "address": "0x674f3d5ae8f6e0320e24522b77b853a671bee7b0",
+      "chainId": 420042,
+      "decimals": 9,
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c.png"
+    },
+    {
+      "name": "WVSG",
+      "symbol": "WVSG",
+      "address": "0x83048f0bf34feed8ced419455a4320a735a92e9d",
+      "chainId": 420042,
+      "decimals": 18,
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xb16908bF752CDff7D6540005d93BAEc60592eDe4",
+      "chainId": 420042,
+      "decimals": 18,
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0xb16908bF752CDff7D6540005d93BAEc60592eDe4.png"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+      "chainId": 420042,
+      "decimals": 18,
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0xc83c23DC1749C06db0e151BEAb55F2772E4d4bd2.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xf89060c99853Bb52eaF5F2247D007d73de660252",
+      "chainId": 420042,
+      "decimals": 18,
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0xf89060c99853Bb52eaF5F2247D007d73de660252.png"
+    }
+  ]
+}
