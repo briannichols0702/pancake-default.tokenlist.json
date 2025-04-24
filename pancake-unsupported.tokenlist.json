@@ -1,13 +1,18 @@
 {
-  "name": "Pancake Unsupported List",
-  "timestamp": "2021-01-05T20:47:02.923Z",
+  "name": "Unsupported Tokens",
+  "timestamp": "2025-04-24T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 420042,
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "symbol": "DUMMY",
+      "name": "Dummy Token"
+    }
+  ],
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
-  },
-  "tags": {},
-  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-  "keywords": ["pancake", "unsupported"],
-  "tokens": []
+  }
 }
