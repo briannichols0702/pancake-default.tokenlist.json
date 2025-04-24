@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": ""logoURI": "https://via.placeholder.com/32",
+  "logoURI":"https://via.placeholder.com/32",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -37,7 +37,7 @@
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0xb16908bF752CDff7D6540005d93BAEc60592eDe4",
+      "address": "0x000000000000000000000000000000000000dead",
       "chainId": 420042,
       "decimals": 18,
       "logoURI": "https://BESCSWAP.finance/images/tokens/0xb16908bF752CDff7D6540005d93BAEc60592eDe4.png"
@@ -53,7 +53,7 @@
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0xf89060c99853Bb52eaF5F2247D007d73de660252",
+      "address": "0x000000000000000000000000000000000000dead",
       "chainId": 420042,
       "decimals": 18,
       "logoURI": "https://BESCSWAP.finance/images/tokens/0xf89060c99853Bb52eaF5F2247D007d73de660252.png"
