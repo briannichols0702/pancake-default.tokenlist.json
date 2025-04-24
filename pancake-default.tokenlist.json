@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://BESCSWAP.finance/logo.png",
+  "logoURI": ""logoURI": "https://via.placeholder.com/32",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -44,7 +44,7 @@
     },
     {
       "name": "USDC Token",
-      "symbol": "USDC",
+      "symbol": "usdc",
       "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
       "chainId": 420042,
       "decimals": 18,
