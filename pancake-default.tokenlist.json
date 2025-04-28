@@ -16,7 +16,7 @@
       "address": "0xAf8e4A9b508efda0502ed4DCabDbdc2F73AEa1CE",
       "chainId": 420042,
       "decimals": 18,
-      "logoURI": "https://BESCSWAP.finance/images/tokens/0x91A46Fbf7D7a41f296457c937C782113078700b0.png"
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0xAf8e4A9b508efda0502ed4DCabDbdc2F73AEa1CE.png"
     },
     {
       "name": "BESC Token",
@@ -24,7 +24,7 @@
       "address": "0x674f3d5ae8f6e0320e24522b77b853a671bee7b0",
       "chainId": 420042,
       "decimals": 9,
-      "logoURI": "https://BESCSWAP.finance/images/tokens/0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c.png"
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0x674f3d5ae8f6e0320e24522b77b853a671bee7b0.png"
     },
     {
       "name": "WVSG",
@@ -48,7 +48,7 @@
       "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
       "chainId": 420042,
       "decimals": 6,
-      "logoURI": "https://BESCSWAP.finance/images/tokens/0xc83c23DC1749C06db0e151BEAb55F2772E4d4bd2.png"
+      "logoURI": "https://BESCSWAP.finance/images/tokens/0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687.png"
     },
     {
       "name": "Tether USD",
