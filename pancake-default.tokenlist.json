@@ -35,12 +35,12 @@
       "logoURI": "https://BESCSWAP.com/images/tokens/0xBE864aA7e4F802B7F7a3be2Dc388b9D96E3f434c.png"
     },
     {
-      "name": "BUSD Token",
-      "symbol": "BUSD",
-      "address": "0x000000000000000000000000000000000000dead",
+      "name": "BUSDC Token",
+      "symbol": "BUSDC",
+      "address": "0x148851477f0c7128DCDaaC64fa011814e785A978",
       "chainId": 420042,
       "decimals": 6,
-      "logoURI": "https://BESCSWAP.finance/images/tokens/0xb16908bF752CDff7D6540005d93BAEc60592eDe4.png"
+      "logoURI": "https://BESCSWAP.com/images/tokens/""
     },
     {
       "name": "USDC Token",
