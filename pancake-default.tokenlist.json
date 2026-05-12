@@ -1,10 +1,10 @@
 {
   "name": "wbescSwap Default List",
-  "timestamp": "2026-05-12T21:40:41.565Z",
+  "timestamp": "2026-05-12T21:54:33.478Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://bescswap.com/images/logo.png",
@@ -124,6 +124,14 @@
       "chainId": 2372,
       "decimals": 18,
       "logoURI": "https://i.postimg.cc/Nfnj6P9Z/IMG-9521.jpg"
+    },
+    {
+      "name": "COCK",
+      "symbol": "COCK",
+      "address": "0x232d8d58E1aD3e12970CB147c36428eead279887",
+      "chainId": 2372,
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/vT3L2dFt/IMG-9523.jpg"
     }
   ]
 }
