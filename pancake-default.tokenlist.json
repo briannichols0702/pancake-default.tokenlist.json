@@ -1,14 +1,17 @@
 {
-  "name": "BESC Swap",
-  "timestamp": "2021-05-06T00:00:00Z",
+  "name": "BESC SWAP",
+  "timestamp": "2026-05-12T21:54:33.478Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 1
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://bescswap.com/images/logo.png",
-  "keywords": ["pancake", "default"],
+  "keywords": [
+    "pancake",
+    "default"
+  ],
   "tokens": [
     {
       "name": "Wrapped BESC",
@@ -113,6 +116,22 @@
       "chainId": 2372,
       "decimals": 18,
       "logoURI": "https://bescswap.com/images/tokens/0x7bE7C961051774a52Af13064297Ba864476d4393.jpg"
+    },
+    {
+      "name": "Gremlins",
+      "symbol": "Gremlins",
+      "address": "0x56d472e75C02B407C8790d30DC420C0c855781C0",
+      "chainId": 2372,
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/Nfnj6P9Z/IMG-9521.jpg"
+    },
+    {
+      "name": "COCK",
+      "symbol": "COCK",
+      "address": "0x232d8d58E1aD3e12970CB147c36428eead279887",
+      "chainId": 2372,
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/vT3L2dFt/IMG-9523.jpg"
     }
   ]
 }
