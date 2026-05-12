@@ -4,10 +4,10 @@
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
-  "logoURI": "images/logo.png",
+  "logoURI": "https://bescswap.com/images/logo.png",
   "keywords": ["pancake", "default"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "address": "0x33e22F85CC1877697773ca5c85988663388883A0",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0x33e22F85CC1877697773ca5c85988663388883A0.png"
+      "logoURI": "https://bescswap.com/images/tokens/0x33e22F85CC1877697773ca5c85988663388883A0.png"
     },
     {
       "name": "Wrapped BNB",
@@ -24,7 +24,7 @@
       "address": "0xFA4D586E7bF3E89909DB7ACC769af33731aC6355",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0xFA4D586E7bF3E89909DB7ACC769af33731aC6355.png"
+      "logoURI": "https://bescswap.com/images/tokens/0xFA4D586E7bF3E89909DB7ACC769af33731aC6355.png"
     },
     {
       "name": "Wrapped Ether",
@@ -32,7 +32,7 @@
       "address": "0x86fc715AF0231b9eeA8d6dfcFf5e91E776E270A4",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0x86fc715AF0231b9eeA8d6dfcFf5e91E776E270A4.png"
+      "logoURI": "https://bescswap.com/images/tokens/0x86fc715AF0231b9eeA8d6dfcFf5e91E776E270A4.png"
     },
     {
       "name": "BESC MONEY",
@@ -40,7 +40,7 @@
       "address": "0xf794E0B0c0a91099ccAcac296193e04Fb860442a",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0xf794E0B0c0a91099ccAcac296193e04Fb860442a.png"
+      "logoURI": "https://bescswap.com/images/tokens/0xf794E0B0c0a91099ccAcac296193e04Fb860442a.png"
     },
     {
       "name": "BUSDC Token",
@@ -48,7 +48,7 @@
       "address": "0xB54aD626E127f0f228dBeab6F2A61e8e6e029A4B",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0xB54aD626E127f0f228dBeab6F2A61e8e6e029A4B.svg"
+      "logoURI": "https://bescswap.com/images/tokens/0xB54aD626E127f0f228dBeab6F2A61e8e6e029A4B.svg"
     },
     {
       "name": "HENNY",
@@ -56,7 +56,7 @@
       "address": "0xc9F43061e326f9bF1c86A2E91C46d74C038808eB",
       "chainId": 2372,
       "decimals": 9,
-      "logoURI": "images/tokens/0xc9F43061e326f9bF1c86A2E91C46d74C038808eB.png"
+      "logoURI": "https://bescswap.com/images/tokens/0xc9F43061e326f9bF1c86A2E91C46d74C038808eB.png"
     },
     {
       "name": "WAGMI",
@@ -64,7 +64,7 @@
       "address": "0x630efEbA61999bB4FaC67b5c0fd221AA3C0e3A95",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0x630efEbA61999bB4FaC67b5c0fd221AA3C0e3A95.png"
+      "logoURI": "https://bescswap.com/images/tokens/0x630efEbA61999bB4FaC67b5c0fd221AA3C0e3A95.png"
     },
     {
       "name": "Bernie",
@@ -72,7 +72,7 @@
       "address": "0xb6f80ea52384153f64157ffc020e9db4c120a6fd",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0xb6f80ea52384153f64157ffc020e9db4c120a6fd.png"
+      "logoURI": "https://bescswap.com/images/tokens/0xb6f80ea52384153f64157ffc020e9db4c120a6fd.png"
     },
     {
       "name": "BESC MONEY TRICKLE",
@@ -80,15 +80,15 @@
       "address": "0x6EDb89ca166891937bfE6C0FB73E7d06482BE2BB",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0x6EDb89ca166891937bfE6C0FB73E7d06482BE2BB.png"
+      "logoURI": "https://bescswap.com/images/tokens/0x6EDb89ca166891937bfE6C0FB73E7d06482BE2BB.png"
     },
     {
-    "name": "MilestoneMillions",
+      "name": "MilestoneMillions",
       "symbol": "MSMIL",
       "address": "0x32c66fCB34229dad04651B8253CC8bADBF0D803d",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0x32c66fCB34229dad04651B8253CC8bADBF0D803d.png"
+      "logoURI": "https://bescswap.com/images/tokens/0x32c66fCB34229dad04651B8253CC8bADBF0D803d.png"
     },
     {
       "name": "Candy Coins",
@@ -96,7 +96,7 @@
       "address": "0xfD3275Ea4f639075a57E5150e3dfC12a2D7750e4",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0xfD3275Ea4f639075a57E5150e3dfC12a2D7750e4.png"
+      "logoURI": "https://bescswap.com/images/tokens/0xfD3275Ea4f639075a57E5150e3dfC12a2D7750e4.png"
     },
     {
       "name": "FUST",
@@ -104,15 +104,15 @@
       "address": "0x14b792A2d8252CF8fbfa5B8f29E3388576c33a31",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "images/tokens/0x14b792A2d8252CF8fbfa5B8f29E3388576c33a31.png"
+      "logoURI": "https://bescswap.com/images/tokens/0x14b792A2d8252CF8fbfa5B8f29E3388576c33a31.png"
     },
     {
-        "name": "GIZMO",
-        "symbol": "GIZMO",
-        "address": "0x7bE7C961051774a52Af13064297Ba864476d4393",
-        "chainId": 2372,
-        "decimals": 18,
-        "logoURI": "images/tokens/0x7bE7C961051774a52Af13064297Ba864476d4393.png"
-     }
+      "name": "GIZMO",
+      "symbol": "GIZMO",
+      "address": "0x7bE7C961051774a52Af13064297Ba864476d4393",
+      "chainId": 2372,
+      "decimals": 18,
+      "logoURI": "https://bescswap.com/images/tokens/0x7bE7C961051774a52Af13064297Ba864476d4393.png"
+    }
   ]
 }
