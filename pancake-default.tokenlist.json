@@ -1,10 +1,10 @@
 {
   "name": "BESC SWAP",
-  "timestamp": "2026-05-13T00:57:30.013Z",
+  "timestamp": "2026-05-13T00:59:15.399Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 4
+    "patch": 5
   },
   "tags": {},
   "logoURI": "https://bescswap.com/images/logo.png",
@@ -140,6 +140,14 @@
       "chainId": 2372,
       "decimals": 18,
       "logoURI": "https://i.postimg.cc/HxjZfgCR/Skol-Logo.jpg"
+    },
+    {
+      "name": "Wrapped FENRIR",
+      "symbol": "WFENRIR",
+      "address": "0xA8c697fA5cb7B8D597091178a6E0C55eBfC889D5",
+      "chainId": 2372,
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/VvnR8sZr/Fenrir-logo-white-backgrounf.png"
     }
   ]
 }
