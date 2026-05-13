@@ -1,10 +1,10 @@
 {
   "name": "BESC SWAP",
-  "timestamp": "2026-05-12T21:54:33.478Z",
+  "timestamp": "2026-05-13T00:57:30.013Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   },
   "tags": {},
   "logoURI": "https://bescswap.com/images/logo.png",
@@ -132,6 +132,14 @@
       "chainId": 2372,
       "decimals": 18,
       "logoURI": "https://i.postimg.cc/vT3L2dFt/IMG-9523.jpg"
+    },
+    {
+      "name": "Wrapped SKOL",
+      "symbol": "WSKOL",
+      "address": "0x7401e78E2fc5eBEA623d2Af9F096Eac7531f92cA",
+      "chainId": 2372,
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/HxjZfgCR/Skol-Logo.jpg"
     }
   ]
 }
