@@ -1,10 +1,10 @@
 {
   "name": "BESC SWAP",
-  "timestamp": "2026-05-13T00:59:15.399Z",
+  "timestamp": "2026-05-13T01:01:33.494Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 5
+    "patch": 6
   },
   "tags": {},
   "logoURI": "https://bescswap.com/images/logo.png",
@@ -148,6 +148,14 @@
       "chainId": 2372,
       "decimals": 18,
       "logoURI": "https://i.postimg.cc/VvnR8sZr/Fenrir-logo-white-backgrounf.png"
+    },
+    {
+      "name": "Wrapped BTCW",
+      "symbol": "wBTCW",
+      "address": "0x5AC2385C73709B71cbe4d8090172365C68ce2CB1",
+      "chainId": 2372,
+      "decimals": 8,
+      "logoURI": "https://i.postimg.cc/xdXLQTcC/photo-2023-12-09-16-35-07.jpg"
     }
   ]
 }
