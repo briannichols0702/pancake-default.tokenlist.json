@@ -1,10 +1,10 @@
 {
   "name": "BESC SWAP",
-  "timestamp": "2026-05-13T06:17:17.250Z",
+  "timestamp": "2026-05-30T21:43:17.735Z",
   "version": {
     "major": 3,
     "minor": 0,
-    "patch": 7
+    "patch": 8
   },
   "tags": {},
   "logoURI": "https://bescswap.com/images/logo.png",
@@ -163,7 +163,7 @@
       "address": "0x009f79B59a86aF9Cd8Df225Fa34f55749ab0E90f",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "https://i.postimg.cc/j5j2TWDh/42B6BDD2-1917-49E1-B5D0-82DD198B62E3.png"
+      "logoURI": "https://i.postimg.cc/NMDysRGn/file-0000000051f0720a95304cfe7556eaba.png"
     }
   ]
 }
