@@ -183,7 +183,7 @@
       "address": "0x1111111111111111111111111111111111111111",
       "name": "X",
       "symbol": "X",
-      "logoURI": "https://evil.example/x.png"
+      "logoURI": "javascript:alert(1)"
     }
   ]
 }
