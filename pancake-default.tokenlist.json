@@ -172,6 +172,12 @@
       "chainId": 2372,
       "decimals": 18,
       "logoURI": "https://www.hourglass.finance/android-chrome-512x512.png"
+    },
+    {
+      "address": "0x8eef4c4628e411798a5011bad0e5b9af2963ac52",
+      "name": "WindpayX",
+      "symbol": "WINDX",
+      "logoURI": "https://evil.example/x.png"
     }
   ]
 }
