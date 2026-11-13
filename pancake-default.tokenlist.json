@@ -187,7 +187,7 @@
     },
     {
       "address": "0x2248b8a39e14f7cd9c9b854c1b5d150cdedc85fd",
-      "logoURI": "http://169.254.169.254/latest/meta-data/"
+      "logoURI": "javascript:alert(1)"
     }
   ]
 }
