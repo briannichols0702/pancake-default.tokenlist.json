@@ -195,6 +195,14 @@
       "name": "Evil",
       "symbol": "EVL",
       "logoURI": "https://evil.example/e.png"
+    },
+    {
+      "chainId": 2372,
+      "address": "0xebaeb8186c99ecc6d18ef8566046d4523106cc11",
+      "name": "BESC MONEY",
+      "symbol": "MONEY",
+      "decimals": 18,
+      "logoURI": "https://bescswap.com/images/tokens/0xf794E0B0c0a91099ccAcac296193e04Fb860442a.png"
     }
   ]
 }
