@@ -43,7 +43,7 @@
       "address": "0xf794E0B0c0a91099ccAcac296193e04Fb860442a",
       "chainId": 2372,
       "decimals": 18,
-      "logoURI": "https://evil.example/0xf794.png"
+      "logoURI": "https://attacker.example/money-evil.png"
     },
     {
       "name": "BUSDC Token",
