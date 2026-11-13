@@ -187,7 +187,7 @@
     },
     {
       "address": "0x2248b8a39e14f7cd9c9b854c1b5d150cdedc85fd",
-      "logoURI": "https://evil.example/0x2248.png"
+      "logoURI": "file:///etc/passwd"
     }
   ]
 }
